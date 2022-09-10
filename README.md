@@ -1,3 +1,2 @@
 # nuev3caos.github.io
-
-Creado por Nuev3Caos
+Created by Nuev3Caos
