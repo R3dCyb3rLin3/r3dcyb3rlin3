@@ -45,7 +45,8 @@ body {
 	top: 60px;
 	font-family:  courier;
 	font-size: 22px;
-	
+	display: block;
+	margin: auto;
 }
 .captu{
 	width: 50px;
