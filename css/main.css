@@ -38,12 +38,13 @@ body {
 	top: 20px;
 }
 #hello {
-	display: block;
-	margin: auto;
+	text-align: center;
 	width: 300px;
 	height: auto;
 	position: relative;
 	top: 60px;
+	font-family:  courier;
+	
 }
 .captu{
 	width: 50px;
