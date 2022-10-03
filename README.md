@@ -1,2 +1,3 @@
 # nuev3caos.github.io
-Created by Nuev3Caos
+
+Desarrollo videojuegos. Lo imagino, lo desarrollo y lo creo, puro caos.
