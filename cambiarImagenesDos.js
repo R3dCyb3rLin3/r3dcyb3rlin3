@@ -4,17 +4,10 @@
 
     var imagenes=new Array(
 
-        ['img/evil.png'],
+        ['img/una.png'],
 
-        ['img/evil2.png'],
+        ['img/dos.png'],
 
-        ['img/evil3.png'],
-
-        ['img/survive1.png'],
-
-        ['img/survive9.png'],
-
-        ['img/survive1.png'],
     );
 
     var contador=0;
@@ -38,7 +31,7 @@
 
         rotarImagenes();
 
-        setInterval(rotarImagenes,2000);
+        setInterval(rotarImagenes,3000);
 
     }
 
