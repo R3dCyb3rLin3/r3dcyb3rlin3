@@ -5,7 +5,7 @@
 html, body { }
 
 body {
-	background: #261c2c;
+	background: black;
 	color: white;
 	font-size: 25px;
 	margin: 0;
@@ -113,7 +113,7 @@ a:hover {
 	font-size: 19px;
 	top: 50px;
 	text-align: center;
-	background: black;
+	background: #261c2c;
 
 }
 /* pageChaos */
