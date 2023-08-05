@@ -1,5 +1,5 @@
 # nuev3caos.github.io
 
-Creado por Nuev3Caos.
+Created by Nuev3Caos.
 
-Desarrollo videojuegos. Lo imagino, lo desarrollo y lo creo, puro caos.
+indiegame, indiedev, solodev, writer, music, drawing, programming.
