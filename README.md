@@ -1,5 +1,6 @@
 # nuev3caos.github.io
 
-Created by Nuev3Caos.
+Creado por Nuev3Caos.
 
-indiegame, indiedev, solodev, writer, music, drawing, programming.
+Desarrollador de juegos en solitario, escribo, dibujo, programo, hago música etc...
+todo lo que necesite para crear mis proyectos(lo aprendo y lo hago).
