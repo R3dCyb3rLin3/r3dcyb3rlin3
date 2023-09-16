@@ -2,5 +2,9 @@
 
 Creado por Nuev3Caos.
 
-Desarrollador de juegos en solitario, escribo, dibujo, programo, hago música etc...
-todo lo que necesite para crear mis proyectos(lo aprendo y lo hago).
+
+
+  Hola soy Nuev3, Una idea, una hoja en blanco, un lápiz y que comience el caos.
+  (C#, Unity3D, HTML, CSS, JavaScript).
+
+	
