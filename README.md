@@ -3,8 +3,10 @@
 Creado por Nuev3Caos.
 
 
-
-  Hola soy Nuev3, Una idea, una hoja en blanco, un lápiz y que comience el caos.
-  (C#, Unity3D, HTML, CSS, JavaScript).
+   Hola soy Nuev3 bienvenid@s.
+   #solodev #indiegame #indiedev
+   (C#, Unity3D, Blender, Python, HTML, CSS, JavaScript).
+	
+  
 
 	
