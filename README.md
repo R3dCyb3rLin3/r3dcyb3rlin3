@@ -3,7 +3,7 @@
 Creado por Nuev3Caos.
 
 
-   Hola soy Nuev3 bienvenid@s.
+   Bienvenid@ a mi zona del caos.
    #solodev #indiegame #indiedev
    (C#, Unity3D, Blender, Python, HTML, CSS, JavaScript).
 	
