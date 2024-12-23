@@ -33,7 +33,7 @@ nav {
 section {
       text-align: center;
       width: 600px;
-      height: auto;
+      height: 500px;
       color: indianred;
       background-color: transparent;
       display: block;
@@ -85,7 +85,7 @@ footer{
       color: black; 
       text-align: center; 
       font-size: 13px;
-      background: linear-gradient(to bottom, #e74c3c, #c0392b, #9b111e);
+      background: #101010;
      
 }
 /* Responsividad: Pantallas pequeñas */
@@ -101,20 +101,20 @@ footer{
             margin: auto;
         }
         section {
-      width: 325px;
-      height: auto;
-      color: indianred;
-      background-color: transparent;
-      display: block;
-      margin: auto;
-      border: double;
-      border-left: hidden;
-      border-right: hidden;
-      font-size: 25px;
-      border-color: indianred;
-      border-radius: 10px 8px 10px 8px;
-      padding-bottom: 50px; 
-    }
+          width: 325px;
+          height: 500px;
+          color: indianred;
+          background-color: transparent;
+          display: block;
+          margin: auto;
+          border: double;
+          border-left: hidden;
+          border-right: hidden;
+          font-size: 25px;
+          border-color: indianred;
+          border-radius: 10px 8px 10px 8px;
+          padding-bottom: 50px; 
+        }
     .wel {
         display: block;
         margin: auto;
@@ -155,5 +155,5 @@ footer {
       color: black; 
       text-align: center; 
       font-size: 13px;
-      background: linear-gradient(to bottom, #e74c3c, #c0392b, #9b111e);
+      background: #101010;
     }
