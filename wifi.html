@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Escáner WiFi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        .network-list {
+            list-style: none;
+            padding: 0;
+        }
+        .network-item {
+            padding: 10px;
+            background-color: #f9f9f9;
+            margin: 5px 0;
+            border-radius: 4px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Simulador de Escáner de Redes WiFi</h1>
+        <button onclick="scanWiFi()">Escanear Redes</button>
+        <ul id="networkList" class="network-list"></ul>
+    </div>
+
+    <script>
+        function scanWiFi() {
+            // Simulación de redes WiFi ficticias
+            const networks = [
+                { ssid: 'RedCasa', signal: '-40 dBm' },
+                { ssid: 'WiFiPublico', signal: '-65 dBm' },
+                { ssid: 'RedOficina', signal: '-55 dBm' },
+                { ssid: 'RedVecina', signal: '-75 dBm' }
+            ];
+
+            const listElement = document.getElementById('networkList');
+            listElement.innerHTML = ''; // Limpiar la lista existente
+
+            // Mostrar cada red WiFi simulada
+            networks.forEach(network => {
+                const li = document.createElement('li');
+                li.classList.add('network-item');
+                li.textContent = `SSID: ${network.ssid} - Señal: ${network.signal}`;
+                listElement.appendChild(li);
+            });
+        }
+    </script>
+</body>
+</html>
