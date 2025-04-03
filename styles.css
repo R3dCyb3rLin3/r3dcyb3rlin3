@@ -107,10 +107,10 @@ nav {
 .pie {
   position: relative;   
   width: 100%;  
-  color: black; 
+  color: yellow; 
   text-align: center; 
   font-size: 13px;
-  background: linear-gradient(to bottom, #e74c3c, #c0392b, #9b111e);
+  background: transparent;
 }
 /* PROYECTO WEB */
 .infota {
@@ -193,10 +193,8 @@ nav {
   .pie {
       position: relative; 
       width: 100%;  
-      color: black; 
       text-align: center; 
       font-size: 13px;
-      background: linear-gradient(to bottom, #e74c3c, #c0392b, #9b111e);
   }
   /* PROYECTO WEB */
   .infota{
